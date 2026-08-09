@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_food_crate","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":200000,"b":195000,"p":200000,"v":40}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_food_crate","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":200000,"b":195000,"p":200000,"v":40},{"time":1786288464,"a":205000,"b":200000,"p":200476,"v":1143}],"hourlyRetentionDays":60}

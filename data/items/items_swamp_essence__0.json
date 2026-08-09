@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/swamp_essence","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":64,"b":54,"p":61,"v":193876}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/swamp_essence","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":64,"b":54,"p":61,"v":193876},{"time":1786288464,"a":60,"b":54,"p":54,"v":58903}],"hourlyRetentionDays":60}

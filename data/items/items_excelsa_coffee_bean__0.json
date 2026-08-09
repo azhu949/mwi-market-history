@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/excelsa_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":1400,"b":1350,"p":1350,"v":437682}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/excelsa_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":1400,"b":1350,"p":1350,"v":437682},{"time":1786288464,"a":1400,"b":1350,"p":1350,"v":60578}],"hourlyRetentionDays":60}

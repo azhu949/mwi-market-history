@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/plum_gummy","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":400,"b":380,"p":388,"v":72656}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/plum_gummy","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":400,"b":380,"p":388,"v":72656},{"time":1786288464,"a":400,"b":390,"p":388,"v":79848}],"hourlyRetentionDays":60}

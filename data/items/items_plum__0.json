@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/plum","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":28,"b":27,"p":27,"v":289608}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/plum","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":28,"b":27,"p":27,"v":289608},{"time":1786288464,"a":28,"b":27,"p":27,"v":449260}],"hourlyRetentionDays":60}

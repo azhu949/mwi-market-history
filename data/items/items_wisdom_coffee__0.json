@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wisdom_coffee","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":3000,"b":2900,"p":2944,"v":47990}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wisdom_coffee","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":3000,"b":2900,"p":2944,"v":47990},{"time":1786288464,"a":3000,"b":2950,"p":2999,"v":56922}],"hourlyRetentionDays":60}

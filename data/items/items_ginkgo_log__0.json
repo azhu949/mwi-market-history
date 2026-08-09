@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ginkgo_log","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":640,"b":620,"p":646,"v":186302}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ginkgo_log","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":640,"b":620,"p":646,"v":186302},{"time":1786288464,"a":640,"b":620,"p":637,"v":59169}],"hourlyRetentionDays":60}

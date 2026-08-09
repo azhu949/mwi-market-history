@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magnetic_gloves","variant":11,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":45000000,"b":35000000,"p":41000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magnetic_gloves","variant":11,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":45000000,"b":35000000,"p":41000000,"v":1},{"time":1786288464,"a":45000000,"b":35000000,"p":null,"v":null}],"hourlyRetentionDays":60}

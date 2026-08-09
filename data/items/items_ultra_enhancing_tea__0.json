@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ultra_enhancing_tea","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":12500,"b":12000,"p":12432,"v":1649}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ultra_enhancing_tea","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":12500,"b":12000,"p":12432,"v":1649},{"time":1786288464,"a":12500,"b":12000,"p":12066,"v":15525}],"hourlyRetentionDays":60}

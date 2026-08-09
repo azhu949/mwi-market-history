@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_hide","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":250,"b":240,"p":240,"v":10501}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_hide","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":250,"b":240,"p":240,"v":10501},{"time":1786288464,"a":265,"b":240,"p":255,"v":125201}],"hourlyRetentionDays":60}

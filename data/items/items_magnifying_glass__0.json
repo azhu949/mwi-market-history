@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magnifying_glass","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":2150000,"b":2100000,"p":2101082,"v":231}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magnifying_glass","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":2150000,"b":2100000,"p":2101082,"v":231},{"time":1786288464,"a":2150000,"b":2100000,"p":2134732,"v":262}],"hourlyRetentionDays":60}

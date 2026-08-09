@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/silk_hat","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":205000,"b":195000,"p":200000,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/silk_hat","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":205000,"b":195000,"p":200000,"v":2},{"time":1786288464,"a":200000,"b":195000,"p":200581,"v":43}],"hourlyRetentionDays":60}

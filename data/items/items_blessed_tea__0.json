@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blessed_tea","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":3000,"b":2850,"p":3000,"v":321}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blessed_tea","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":3000,"b":2850,"p":3000,"v":321},{"time":1786288464,"a":3000,"b":2900,"p":2994,"v":9353}],"hourlyRetentionDays":60}

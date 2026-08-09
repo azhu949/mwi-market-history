@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/sinister_refinement_shard","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":2100000,"b":2050000,"p":2075000,"v":52}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/sinister_refinement_shard","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":2100000,"b":2050000,"p":2075000,"v":52},{"time":1786288464,"a":2100000,"b":2050000,"p":2050000,"v":1}],"hourlyRetentionDays":60}

@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_shroud","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":94000,"b":76000,"p":81826,"v":23}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_shroud","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":94000,"b":76000,"p":81826,"v":23},{"time":1786288464,"a":96000,"b":78000,"p":81583,"v":24}],"hourlyRetentionDays":60}

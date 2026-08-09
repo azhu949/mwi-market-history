@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blackberry","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":175,"b":160,"p":162,"v":38791}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blackberry","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":175,"b":160,"p":162,"v":38791},{"time":1786288464,"a":180,"b":165,"p":174,"v":28197}],"hourlyRetentionDays":60}

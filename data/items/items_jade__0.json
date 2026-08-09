@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/jade","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":28000,"b":27500,"p":27500,"v":16322}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/jade","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":28000,"b":27500,"p":27500,"v":16322},{"time":1786288464,"a":28000,"b":27500,"p":27817,"v":7096}],"hourlyRetentionDays":60}

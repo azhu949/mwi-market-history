@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/luna_wing","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":400000,"b":390000,"p":389440,"v":375}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/luna_wing","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":400000,"b":390000,"p":389440,"v":375},{"time":1786288464,"a":400000,"b":390000,"p":391553,"v":103}],"hourlyRetentionDays":60}

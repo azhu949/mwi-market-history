@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/flaming_cloth","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":58000,"b":56000,"p":56035,"v":171}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/flaming_cloth","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":58000,"b":56000,"p":56035,"v":171},{"time":1786288464,"a":58000,"b":56000,"p":56086,"v":69}],"hourlyRetentionDays":60}

@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/enhancing_essence","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":940,"b":920,"p":922,"v":102477}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/enhancing_essence","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":940,"b":920,"p":922,"v":102477},{"time":1786288464,"a":940,"b":920,"p":939,"v":443043}],"hourlyRetentionDays":60}

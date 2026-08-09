@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/strawberry_cake","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":1500,"b":1300,"p":1599,"v":3301}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/strawberry_cake","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":1500,"b":1300,"p":1599,"v":3301},{"time":1786288464,"a":1500,"b":1300,"p":1300,"v":727}],"hourlyRetentionDays":60}

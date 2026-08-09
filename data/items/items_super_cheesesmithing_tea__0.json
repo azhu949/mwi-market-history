@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/super_cheesesmithing_tea","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":6000,"b":5800,"p":6000,"v":1231}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/super_cheesesmithing_tea","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":6000,"b":5800,"p":6000,"v":1231},{"time":1786288464,"a":6000,"b":5800,"p":5989,"v":2907}],"hourlyRetentionDays":60}

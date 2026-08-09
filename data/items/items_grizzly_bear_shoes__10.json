@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grizzly_bear_shoes","variant":10,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":6800000,"b":5600000,"p":6700000,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grizzly_bear_shoes","variant":10,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":6800000,"b":5600000,"p":6700000,"v":2},{"time":1786288464,"a":6600000,"b":5600000,"p":null,"v":null}],"hourlyRetentionDays":60}

@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/black_tea_leaf","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":18,"b":16,"p":16,"v":93626}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/black_tea_leaf","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":18,"b":16,"p":16,"v":93626},{"time":1786288464,"a":18,"b":17,"p":16,"v":314192}],"hourlyRetentionDays":60}

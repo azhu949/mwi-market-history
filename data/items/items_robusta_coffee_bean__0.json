@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/robusta_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":980,"b":780,"p":955,"v":3145}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/robusta_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":980,"b":780,"p":955,"v":3145},{"time":1786288464,"a":960,"b":780,"p":956,"v":22039}],"hourlyRetentionDays":60}

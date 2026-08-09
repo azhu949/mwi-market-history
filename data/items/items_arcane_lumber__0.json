@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/arcane_lumber","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":4800,"b":4700,"p":4708,"v":294616}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/arcane_lumber","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":4800,"b":4700,"p":4708,"v":294616},{"time":1786288464,"a":4800,"b":4700,"p":4749,"v":657915}],"hourlyRetentionDays":60}

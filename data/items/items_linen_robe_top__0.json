@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/linen_robe_top","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":22500,"b":16500,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/linen_robe_top","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":22500,"b":16500,"p":null,"v":null},{"time":1786288464,"a":23000,"b":16500,"p":22640,"v":32}],"hourlyRetentionDays":60}

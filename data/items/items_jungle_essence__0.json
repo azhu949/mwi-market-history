@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/jungle_essence","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":84,"b":76,"p":81,"v":159816}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/jungle_essence","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":84,"b":76,"p":81,"v":159816},{"time":1786288464,"a":88,"b":80,"p":87,"v":2675012}],"hourlyRetentionDays":60}

@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_water_staff","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":5000,"b":4800,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_water_staff","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":5000,"b":4800,"p":null,"v":null},{"time":1786288464,"a":5200,"b":4800,"p":5000,"v":44}],"hourlyRetentionDays":60}

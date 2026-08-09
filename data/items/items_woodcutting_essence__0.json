@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/woodcutting_essence","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":420,"b":410,"p":418,"v":948639}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/woodcutting_essence","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":420,"b":410,"p":418,"v":948639},{"time":1786288464,"a":420,"b":410,"p":417,"v":488771}],"hourlyRetentionDays":60}

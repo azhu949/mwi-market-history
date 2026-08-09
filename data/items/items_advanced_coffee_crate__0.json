@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_coffee_crate","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":270000,"b":240000,"p":270000,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_coffee_crate","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":270000,"b":240000,"p":270000,"v":2},{"time":1786288464,"a":270000,"b":240000,"p":270000,"v":2}],"hourlyRetentionDays":60}

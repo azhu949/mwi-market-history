@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blackberry_donut","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":1100,"b":1000,"p":1157,"v":1324}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/blackberry_donut","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":1100,"b":1000,"p":1157,"v":1324},{"time":1786288464,"a":1100,"b":1000,"p":1000,"v":373}],"hourlyRetentionDays":60}

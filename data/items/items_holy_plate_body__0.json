@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_plate_body","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":1500000,"b":1450000,"p":1483333,"v":3}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_plate_body","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":1500000,"b":1450000,"p":1483333,"v":3},{"time":1786288464,"a":1500000,"b":1450000,"p":1499230,"v":65}],"hourlyRetentionDays":60}

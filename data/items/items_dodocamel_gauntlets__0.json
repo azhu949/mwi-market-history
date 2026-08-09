@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/dodocamel_gauntlets","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":62000000,"b":10000000,"p":60400000,"v":5}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/dodocamel_gauntlets","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":62000000,"b":10000000,"p":60400000,"v":5},{"time":1786288464,"a":62000000,"b":52000000,"p":null,"v":null}],"hourlyRetentionDays":60}

@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/labyrinth_essence","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":640,"b":620,"p":623,"v":2944957}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/labyrinth_essence","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":640,"b":620,"p":623,"v":2944957},{"time":1786288464,"a":640,"b":620,"p":635,"v":1108618}],"hourlyRetentionDays":60}

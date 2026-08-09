@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_milk","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":235,"b":230,"p":234,"v":95082}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_milk","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":235,"b":230,"p":234,"v":95082},{"time":1786288464,"a":245,"b":230,"p":235,"v":201743}],"hourlyRetentionDays":60}

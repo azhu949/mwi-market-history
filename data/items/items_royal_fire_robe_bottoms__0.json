@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_bottoms","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":66000000,"b":64000000,"p":64000000,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_bottoms","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":66000000,"b":64000000,"p":64000000,"v":2},{"time":1786288464,"a":66000000,"b":64000000,"p":null,"v":null}],"hourlyRetentionDays":60}

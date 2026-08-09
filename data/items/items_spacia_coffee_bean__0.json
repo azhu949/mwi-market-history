@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/spacia_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":2200,"b":2150,"p":2194,"v":225429}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/spacia_coffee_bean","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":2200,"b":2150,"p":2194,"v":225429},{"time":1786288464,"a":2200,"b":2150,"p":2188,"v":92017}],"hourlyRetentionDays":60}

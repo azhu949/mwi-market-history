@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/fracturing_impact","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":60000,"b":58000,"p":58370,"v":1084}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/fracturing_impact","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":60000,"b":58000,"p":58370,"v":1084},{"time":1786288464,"a":62000,"b":56000,"p":59463,"v":5844}],"hourlyRetentionDays":60}

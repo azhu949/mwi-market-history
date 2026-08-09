@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_plate_legs","variant":0,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":390000,"b":340000,"p":389615,"v":26}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_plate_legs","variant":0,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":390000,"b":340000,"p":389615,"v":26},{"time":1786288464,"a":390000,"b":340000,"p":null,"v":null}],"hourlyRetentionDays":60}

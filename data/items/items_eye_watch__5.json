@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/eye_watch","variant":5,"earliestTime":1786284324,"latestTime":1786284324,"rows":[{"time":1786284324,"a":13500000,"b":11000000,"p":13000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/eye_watch","variant":5,"earliestTime":1786284324,"latestTime":1786288464,"rows":[{"time":1786284324,"a":13500000,"b":11000000,"p":13000000,"v":1},{"time":1786288464,"a":13000000,"b":10500000,"p":11000000,"v":1}],"hourlyRetentionDays":60}
