@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/philosophers_necklace","variant":20,"earliestTime":1786309698,"latestTime":1786309698,"rows":[{"time":1786309698,"a":-1,"b":12000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/philosophers_necklace","variant":20,"earliestTime":1786309698,"latestTime":1786313767,"rows":[{"time":1786309698,"a":-1,"b":12000000,"p":null,"v":null},{"time":1786313767,"a":-1,"b":12000000,"p":null,"v":null}],"hourlyRetentionDays":60}
