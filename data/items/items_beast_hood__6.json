@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_hood","variant":6,"earliestTime":1786454489,"latestTime":1786454489,"rows":[{"time":1786454489,"a":3800000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_hood","variant":6,"earliestTime":1786454489,"latestTime":1786458521,"rows":[{"time":1786454489,"a":3800000,"b":-1,"p":null,"v":null},{"time":1786458521,"a":3800000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
