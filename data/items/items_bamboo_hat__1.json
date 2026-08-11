@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bamboo_hat","variant":1,"earliestTime":1786458521,"latestTime":1786458521,"rows":[{"time":1786458521,"a":-1,"b":-1,"p":27500000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bamboo_hat","variant":1,"earliestTime":1786458521,"latestTime":1786462362,"rows":[{"time":1786458521,"a":-1,"b":-1,"p":27500000,"v":1},{"time":1786462362,"a":-1,"b":-1,"p":10500000,"v":1}],"hourlyRetentionDays":60}
