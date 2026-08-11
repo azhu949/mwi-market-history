@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_sword","variant":6,"earliestTime":1786443387,"latestTime":1786443387,"rows":[{"time":1786443387,"a":2650000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_sword","variant":6,"earliestTime":1786443387,"latestTime":1786447263,"rows":[{"time":1786443387,"a":2650000,"b":-1,"p":null,"v":null},{"time":1786447263,"a":2650000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
