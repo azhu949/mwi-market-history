@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_bulwark","variant":2,"earliestTime":1786360082,"latestTime":1786360082,"rows":[{"time":1786360082,"a":-1,"b":-1,"p":48000097,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_bulwark","variant":2,"earliestTime":1786360082,"latestTime":1786429456,"rows":[{"time":1786360082,"a":-1,"b":-1,"p":48000097,"v":2},{"time":1786429456,"a":-1,"b":-1,"p":50000097,"v":2}],"hourlyRetentionDays":60}
