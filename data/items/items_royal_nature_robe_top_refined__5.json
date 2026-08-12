@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_nature_robe_top_refined","variant":5,"earliestTime":1786564420,"latestTime":1786564420,"rows":[{"time":1786564420,"a":300000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_nature_robe_top_refined","variant":5,"earliestTime":1786564420,"latestTime":1786568392,"rows":[{"time":1786564420,"a":300000000,"b":-1,"p":null,"v":null},{"time":1786568392,"a":300000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
