@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/lumberjacks_top","variant":1,"earliestTime":1786528160,"latestTime":1786528160,"rows":[{"time":1786528160,"a":-1,"b":3500000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/lumberjacks_top","variant":1,"earliestTime":1786528160,"latestTime":1786531430,"rows":[{"time":1786528160,"a":-1,"b":3500000,"p":null,"v":null},{"time":1786531430,"a":-1,"b":3500000,"p":null,"v":null}],"hourlyRetentionDays":60}
