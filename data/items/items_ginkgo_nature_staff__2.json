@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ginkgo_nature_staff","variant":2,"earliestTime":1786535057,"latestTime":1786535057,"rows":[{"time":1786535057,"a":560000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ginkgo_nature_staff","variant":2,"earliestTime":1786535057,"latestTime":1786542519,"rows":[{"time":1786535057,"a":560000,"b":-1,"p":null,"v":null},{"time":1786542519,"a":560000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
