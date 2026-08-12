@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ring_of_essence_find","variant":5,"earliestTime":1786509976,"latestTime":1786509976,"rows":[{"time":1786509976,"a":88000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/ring_of_essence_find","variant":5,"earliestTime":1786509976,"latestTime":1786514031,"rows":[{"time":1786509976,"a":88000000,"b":-1,"p":null,"v":null},{"time":1786514031,"a":88000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
