@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wizard_necklace","variant":4,"earliestTime":1786542519,"latestTime":1786542519,"rows":[{"time":1786542519,"a":10500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wizard_necklace","variant":4,"earliestTime":1786542519,"latestTime":1786546431,"rows":[{"time":1786542519,"a":10500000,"b":-1,"p":null,"v":null},{"time":1786546431,"a":10500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
