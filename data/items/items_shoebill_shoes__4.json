@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/shoebill_shoes","variant":4,"earliestTime":1786607735,"latestTime":1786607735,"rows":[{"time":1786607735,"a":1350000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/shoebill_shoes","variant":4,"earliestTime":1786607735,"latestTime":1786611097,"rows":[{"time":1786607735,"a":1350000,"b":-1,"p":null,"v":null},{"time":1786611097,"a":1350000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
