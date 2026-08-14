@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_plate_body","variant":5,"earliestTime":1786668185,"latestTime":1786668185,"rows":[{"time":1786668185,"a":560000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_plate_body","variant":5,"earliestTime":1786668185,"latestTime":1786676760,"rows":[{"time":1786668185,"a":560000000,"b":-1,"p":null,"v":null},{"time":1786676760,"a":560000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
