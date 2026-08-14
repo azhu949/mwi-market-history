@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_shield","variant":2,"earliestTime":1786668185,"latestTime":1786668185,"rows":[{"time":1786668185,"a":-1,"b":-1,"p":5175000,"v":8}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_shield","variant":2,"earliestTime":1786668185,"latestTime":1786701960,"rows":[{"time":1786668185,"a":-1,"b":-1,"p":5175000,"v":8},{"time":1786701960,"a":-1,"b":-1,"p":29550,"v":1}],"hourlyRetentionDays":60}
