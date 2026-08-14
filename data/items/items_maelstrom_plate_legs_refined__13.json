@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/maelstrom_plate_legs_refined","variant":13,"earliestTime":1786709160,"latestTime":1786709160,"rows":[{"time":1786709160,"a":2600000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/maelstrom_plate_legs_refined","variant":13,"earliestTime":1786709160,"latestTime":1786716360,"rows":[{"time":1786709160,"a":2600000000,"b":-1,"p":null,"v":null},{"time":1786716360,"a":2600000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}

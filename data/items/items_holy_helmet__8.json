@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_helmet","variant":8,"earliestTime":1786709160,"latestTime":1786709160,"rows":[{"time":1786709160,"a":22550000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_helmet","variant":8,"earliestTime":1786709160,"latestTime":1786716360,"rows":[{"time":1786709160,"a":22550000,"b":-1,"p":null,"v":null},{"time":1786716360,"a":22550000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
