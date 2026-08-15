@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_ranged_charm","variant":11,"earliestTime":1786773960,"latestTime":1786773960,"rows":[{"time":1786773960,"a":11050000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_ranged_charm","variant":11,"earliestTime":1786773960,"latestTime":1786777560,"rows":[{"time":1786773960,"a":11050000000,"b":-1,"p":null,"v":null},{"time":1786777560,"a":11050000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
