@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_bulwark","variant":1,"earliestTime":1786763160,"latestTime":1786763160,"rows":[{"time":1786763160,"a":251500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_bulwark","variant":1,"earliestTime":1786763160,"latestTime":1786766760,"rows":[{"time":1786763160,"a":251500,"b":-1,"p":null,"v":null},{"time":1786766760,"a":251500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
