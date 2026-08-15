@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_hammer","variant":6,"earliestTime":1786791960,"latestTime":1786791960,"rows":[{"time":1786791960,"a":-1,"b":2500000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_hammer","variant":6,"earliestTime":1786791960,"latestTime":1786795560,"rows":[{"time":1786791960,"a":-1,"b":2500000,"p":null,"v":null},{"time":1786795560,"a":-1,"b":2500000,"p":null,"v":null}],"hourlyRetentionDays":60}
