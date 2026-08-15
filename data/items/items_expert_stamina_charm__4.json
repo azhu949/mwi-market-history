@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_stamina_charm","variant":4,"earliestTime":1786802760,"latestTime":1786802760,"rows":[{"time":1786802760,"a":105500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_stamina_charm","variant":4,"earliestTime":1786802760,"latestTime":1786806360,"rows":[{"time":1786802760,"a":105500000,"b":-1,"p":null,"v":null},{"time":1786806360,"a":105500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
