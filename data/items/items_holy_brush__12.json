@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_brush","variant":12,"earliestTime":1786860360,"latestTime":1786860360,"rows":[{"time":1786860360,"a":400000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_brush","variant":12,"earliestTime":1786860360,"latestTime":1786863960,"rows":[{"time":1786860360,"a":400000000,"b":-1,"p":null,"v":null},{"time":1786863960,"a":370000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
