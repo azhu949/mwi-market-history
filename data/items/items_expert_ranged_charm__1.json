@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_ranged_charm","variant":1,"earliestTime":1786683960,"latestTime":1786683960,"rows":[{"time":1786683960,"a":-1,"b":-1,"p":41300000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_ranged_charm","variant":1,"earliestTime":1786683960,"latestTime":1786878360,"rows":[{"time":1786683960,"a":-1,"b":-1,"p":41300000,"v":1},{"time":1786878360,"a":49800000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
