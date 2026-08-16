@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_bracers","variant":6,"earliestTime":1786892760,"latestTime":1786892760,"rows":[{"time":1786892760,"a":1320000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_bracers","variant":6,"earliestTime":1786892760,"latestTime":1786896360,"rows":[{"time":1786892760,"a":1320000,"b":-1,"p":null,"v":null},{"time":1786896360,"a":1320000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
