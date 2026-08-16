@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_slasher","variant":3,"earliestTime":1786856760,"latestTime":1786856760,"rows":[{"time":1786856760,"a":137000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_slasher","variant":3,"earliestTime":1786856760,"latestTime":1786860360,"rows":[{"time":1786856760,"a":137000,"b":-1,"p":null,"v":null},{"time":1786860360,"a":137000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
