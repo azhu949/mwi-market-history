@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/marksman_bracers","variant":14,"earliestTime":1786878360,"latestTime":1786878360,"rows":[{"time":1786878360,"a":3390000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/marksman_bracers","variant":14,"earliestTime":1786878360,"latestTime":1786881960,"rows":[{"time":1786878360,"a":3390000000,"b":-1,"p":null,"v":null},{"time":1786881960,"a":3360000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
