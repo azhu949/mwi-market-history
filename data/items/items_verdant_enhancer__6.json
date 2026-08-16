@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_enhancer","variant":6,"earliestTime":1786903560,"latestTime":1786903560,"rows":[{"time":1786903560,"a":668000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_enhancer","variant":6,"earliestTime":1786903560,"latestTime":1786907160,"rows":[{"time":1786903560,"a":668000,"b":-1,"p":null,"v":null},{"time":1786907160,"a":668000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
