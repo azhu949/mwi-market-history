@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_needle","variant":3,"earliestTime":1786614292,"latestTime":1786614292,"rows":[{"time":1786614292,"a":-1,"b":-1,"p":130000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_needle","variant":3,"earliestTime":1786614292,"latestTime":1787036760,"rows":[{"time":1786614292,"a":-1,"b":-1,"p":130000000,"v":1},{"time":1787036760,"a":204500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
