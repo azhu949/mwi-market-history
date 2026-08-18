@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_hammer","variant":20,"earliestTime":1787011560,"latestTime":1787011560,"rows":[{"time":1787011560,"a":-1,"b":420000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_hammer","variant":20,"earliestTime":1787011560,"latestTime":1787018760,"rows":[{"time":1787011560,"a":-1,"b":420000000,"p":null,"v":null},{"time":1787018760,"a":-1,"b":420000000,"p":null,"v":null}],"hourlyRetentionDays":60}
