@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_ranged_charm","variant":1,"earliestTime":1787090760,"latestTime":1787090760,"rows":[{"time":1787090760,"a":9340000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_ranged_charm","variant":1,"earliestTime":1787090760,"latestTime":1787094360,"rows":[{"time":1787090760,"a":9340000,"b":-1,"p":null,"v":null},{"time":1787094360,"a":9340000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
