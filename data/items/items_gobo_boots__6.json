@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_boots","variant":6,"earliestTime":1787141160,"latestTime":1787141160,"rows":[{"time":1787141160,"a":950000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_boots","variant":6,"earliestTime":1787141160,"latestTime":1787144760,"rows":[{"time":1787141160,"a":950000,"b":-1,"p":null,"v":null},{"time":1787144760,"a":950000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
