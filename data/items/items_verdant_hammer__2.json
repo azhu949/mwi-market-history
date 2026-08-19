@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_hammer","variant":2,"earliestTime":1787173560,"latestTime":1787173560,"rows":[{"time":1787173560,"a":56000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_hammer","variant":2,"earliestTime":1787173560,"latestTime":1787177160,"rows":[{"time":1787173560,"a":56000,"b":-1,"p":null,"v":null},{"time":1787177160,"a":56000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
