@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/icy_robe_top","variant":1,"earliestTime":1786971960,"latestTime":1786971960,"rows":[{"time":1786971960,"a":-1,"b":-1,"p":423000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/icy_robe_top","variant":1,"earliestTime":1786971960,"latestTime":1787105160,"rows":[{"time":1786971960,"a":-1,"b":-1,"p":423000,"v":1},{"time":1787105160,"a":345000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
