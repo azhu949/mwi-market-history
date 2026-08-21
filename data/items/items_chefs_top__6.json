@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/chefs_top","variant":6,"earliestTime":1787349960,"latestTime":1787349960,"rows":[{"time":1787349960,"a":214500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/chefs_top","variant":6,"earliestTime":1787349960,"latestTime":1787353560,"rows":[{"time":1787349960,"a":214500000,"b":-1,"p":null,"v":null},{"time":1787353560,"a":214500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
