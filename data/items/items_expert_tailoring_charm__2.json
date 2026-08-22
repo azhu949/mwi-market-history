@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_tailoring_charm","variant":2,"earliestTime":1787418360,"latestTime":1787418360,"rows":[{"time":1787418360,"a":166500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_tailoring_charm","variant":2,"earliestTime":1787418360,"latestTime":1787421960,"rows":[{"time":1787418360,"a":166500000,"b":-1,"p":null,"v":null},{"time":1787421960,"a":-1,"b":-1,"p":166500000,"v":1}],"hourlyRetentionDays":60}
