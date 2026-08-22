@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_shooter","variant":12,"earliestTime":1787385960,"latestTime":1787385960,"rows":[{"time":1787385960,"a":47700000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_shooter","variant":12,"earliestTime":1787385960,"latestTime":1787389560,"rows":[{"time":1787385960,"a":47700000,"b":-1,"p":null,"v":null},{"time":1787389560,"a":47700000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
