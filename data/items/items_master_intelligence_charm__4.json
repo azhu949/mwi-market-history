@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_intelligence_charm","variant":4,"earliestTime":1787421960,"latestTime":1787421960,"rows":[{"time":1787421960,"a":308000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_intelligence_charm","variant":4,"earliestTime":1787421960,"latestTime":1787425560,"rows":[{"time":1787421960,"a":308000000,"b":-1,"p":null,"v":null},{"time":1787425560,"a":308000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
