@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_milking_charm","variant":8,"earliestTime":1787508360,"latestTime":1787508360,"rows":[{"time":1787508360,"a":-1,"b":3960000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_milking_charm","variant":8,"earliestTime":1787508360,"latestTime":1787511960,"rows":[{"time":1787508360,"a":-1,"b":3960000000,"p":null,"v":null},{"time":1787511960,"a":-1,"b":3960000000,"p":null,"v":null}],"hourlyRetentionDays":60}
