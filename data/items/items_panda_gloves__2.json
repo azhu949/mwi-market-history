@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/panda_gloves","variant":2,"earliestTime":1787609160,"latestTime":1787609160,"rows":[{"time":1787609160,"a":696000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/panda_gloves","variant":2,"earliestTime":1787609160,"latestTime":1787612760,"rows":[{"time":1787609160,"a":696000,"b":-1,"p":null,"v":null},{"time":1787612760,"a":696000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
