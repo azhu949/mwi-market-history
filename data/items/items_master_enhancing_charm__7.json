@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_enhancing_charm","variant":7,"earliestTime":1787565960,"latestTime":1787565960,"rows":[{"time":1787565960,"a":2555000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_enhancing_charm","variant":7,"earliestTime":1787565960,"latestTime":1787569560,"rows":[{"time":1787565960,"a":2555000000,"b":-1,"p":null,"v":null},{"time":1787569560,"a":2555000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
