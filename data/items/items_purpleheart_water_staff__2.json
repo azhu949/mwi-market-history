@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/purpleheart_water_staff","variant":2,"earliestTime":1786589466,"latestTime":1786589466,"rows":[{"time":1786589466,"a":-1,"b":-1,"p":540000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/purpleheart_water_staff","variant":2,"earliestTime":1786589466,"latestTime":1787540760,"rows":[{"time":1786589466,"a":-1,"b":-1,"p":540000000,"v":1},{"time":1787540760,"a":224500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
