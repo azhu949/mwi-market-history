@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_water_robe_bottoms","variant":2,"earliestTime":1787727960,"latestTime":1787727960,"rows":[{"time":1787727960,"a":64600000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_water_robe_bottoms","variant":2,"earliestTime":1787727960,"latestTime":1787731560,"rows":[{"time":1787727960,"a":64600000,"b":-1,"p":null,"v":null},{"time":1787731560,"a":64600000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
