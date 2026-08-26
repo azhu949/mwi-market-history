@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_brewing_charm","variant":3,"earliestTime":1787753160,"latestTime":1787753160,"rows":[{"time":1787753160,"a":199500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_brewing_charm","variant":3,"earliestTime":1787753160,"latestTime":1787760360,"rows":[{"time":1787753160,"a":199500000,"b":-1,"p":null,"v":null},{"time":1787760360,"a":199500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
