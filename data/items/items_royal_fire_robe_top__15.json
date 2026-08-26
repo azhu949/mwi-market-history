@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_top","variant":15,"earliestTime":1787760360,"latestTime":1787760360,"rows":[{"time":1787760360,"a":-1,"b":1000000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_top","variant":15,"earliestTime":1787760360,"latestTime":1787767560,"rows":[{"time":1787760360,"a":-1,"b":1000000000,"p":null,"v":null},{"time":1787767560,"a":-1,"b":1000000000,"p":null,"v":null}],"hourlyRetentionDays":60}
