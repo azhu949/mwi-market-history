@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/large_pouch","variant":4,"earliestTime":1787663160,"latestTime":1787663160,"rows":[{"time":1787663160,"a":-1,"b":-1,"p":1970000,"v":70}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/large_pouch","variant":4,"earliestTime":1787663160,"latestTime":1787709960,"rows":[{"time":1787663160,"a":-1,"b":-1,"p":1970000,"v":70},{"time":1787709960,"a":-1,"b":-1,"p":1970000,"v":28}],"hourlyRetentionDays":60}
