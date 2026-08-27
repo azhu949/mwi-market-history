@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_boots","variant":10,"earliestTime":1787810760,"latestTime":1787810760,"rows":[{"time":1787810760,"a":15000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_boots","variant":10,"earliestTime":1787810760,"latestTime":1787850360,"rows":[{"time":1787810760,"a":15000000,"b":-1,"p":null,"v":null},{"time":1787850360,"a":15000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
