@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cotton_robe_top","variant":6,"earliestTime":1787850360,"latestTime":1787850360,"rows":[{"time":1787850360,"a":308000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cotton_robe_top","variant":6,"earliestTime":1787850360,"latestTime":1787879160,"rows":[{"time":1787850360,"a":308000,"b":-1,"p":null,"v":null},{"time":1787879160,"a":308000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
