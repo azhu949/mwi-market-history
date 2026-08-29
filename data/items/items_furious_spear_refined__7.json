@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/furious_spear_refined","variant":7,"earliestTime":1787958360,"latestTime":1787958360,"rows":[{"time":1787958360,"a":-1,"b":858000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/furious_spear_refined","variant":7,"earliestTime":1787958360,"latestTime":1787976360,"rows":[{"time":1787958360,"a":-1,"b":858000000,"p":null,"v":null},{"time":1787976360,"a":-1,"b":858000000,"p":null,"v":null}],"hourlyRetentionDays":60}
