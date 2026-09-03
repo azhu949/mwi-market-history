@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/birch_shield","variant":1,"earliestTime":1788440760,"latestTime":1788440760,"rows":[{"time":1788440760,"a":19750,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/birch_shield","variant":1,"earliestTime":1788440760,"latestTime":1788455160,"rows":[{"time":1788440760,"a":19750,"b":-1,"p":null,"v":null},{"time":1788455160,"a":19750,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
