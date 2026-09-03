@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_sword","variant":8,"earliestTime":1788386760,"latestTime":1788386760,"rows":[{"time":1788386760,"a":39000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_sword","variant":8,"earliestTime":1788386760,"latestTime":1788393960,"rows":[{"time":1788386760,"a":39000000,"b":-1,"p":null,"v":null},{"time":1788393960,"a":39000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
