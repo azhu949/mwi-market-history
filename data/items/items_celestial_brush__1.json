@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_brush","variant":1,"earliestTime":1788541560,"latestTime":1788541560,"rows":[{"time":1788541560,"a":430000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_brush","variant":1,"earliestTime":1788541560,"latestTime":1788548760,"rows":[{"time":1788541560,"a":430000000,"b":-1,"p":null,"v":null},{"time":1788548760,"a":430000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
