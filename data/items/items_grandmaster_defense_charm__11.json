@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_defense_charm","variant":11,"earliestTime":1788512760,"latestTime":1788512760,"rows":[{"time":1788512760,"a":12000000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_defense_charm","variant":11,"earliestTime":1788512760,"latestTime":1788527160,"rows":[{"time":1788512760,"a":12000000000,"b":-1,"p":null,"v":null},{"time":1788527160,"a":12000000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
