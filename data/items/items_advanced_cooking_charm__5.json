@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_cooking_charm","variant":5,"earliestTime":1786621549,"latestTime":1786621549,"rows":[{"time":1786621549,"a":-1,"b":-1,"p":60000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_cooking_charm","variant":5,"earliestTime":1786621549,"latestTime":1788645960,"rows":[{"time":1786621549,"a":-1,"b":-1,"p":60000000,"v":1},{"time":1788645960,"a":105500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
