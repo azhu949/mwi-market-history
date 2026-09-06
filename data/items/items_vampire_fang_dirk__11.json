@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/vampire_fang_dirk","variant":11,"earliestTime":1788667560,"latestTime":1788667560,"rows":[{"time":1788667560,"a":117500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/vampire_fang_dirk","variant":11,"earliestTime":1788667560,"latestTime":1788681960,"rows":[{"time":1788667560,"a":117500000,"b":-1,"p":null,"v":null},{"time":1788681960,"a":117500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
