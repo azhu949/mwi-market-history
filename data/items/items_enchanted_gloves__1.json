@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/enchanted_gloves","variant":1,"earliestTime":1788987960,"latestTime":1788987960,"rows":[{"time":1788987960,"a":-1,"b":9620000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/enchanted_gloves","variant":1,"earliestTime":1788987960,"latestTime":1788995160,"rows":[{"time":1788987960,"a":-1,"b":9620000,"p":null,"v":null},{"time":1788995160,"a":-1,"b":9620000,"p":null,"v":null}],"hourlyRetentionDays":60}
