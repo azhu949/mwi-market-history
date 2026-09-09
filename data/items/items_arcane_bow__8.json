@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/arcane_bow","variant":8,"earliestTime":1788977160,"latestTime":1788977160,"rows":[{"time":1788977160,"a":44600000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/arcane_bow","variant":8,"earliestTime":1788977160,"latestTime":1788987960,"rows":[{"time":1788977160,"a":44600000,"b":-1,"p":null,"v":null},{"time":1788987960,"a":44600000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
