@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/stalactite_spear","variant":4,"earliestTime":1789189560,"latestTime":1789189560,"rows":[{"time":1789189560,"a":10000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/stalactite_spear","variant":4,"earliestTime":1789189560,"latestTime":1789207560,"rows":[{"time":1789189560,"a":10000000,"b":-1,"p":null,"v":null},{"time":1789207560,"a":10000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
