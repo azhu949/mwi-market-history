@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_pot","variant":3,"earliestTime":1789488360,"latestTime":1789488360,"rows":[{"time":1789488360,"a":99000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_pot","variant":3,"earliestTime":1789488360,"latestTime":1789499160,"rows":[{"time":1789488360,"a":99000,"b":-1,"p":null,"v":null},{"time":1789499160,"a":99000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
