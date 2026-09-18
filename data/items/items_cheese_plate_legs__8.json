@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_plate_legs","variant":8,"earliestTime":1789722360,"latestTime":1789722360,"rows":[{"time":1789722360,"a":808000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_plate_legs","variant":8,"earliestTime":1789722360,"latestTime":1789736760,"rows":[{"time":1789722360,"a":808000,"b":-1,"p":null,"v":null},{"time":1789736760,"a":808000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
