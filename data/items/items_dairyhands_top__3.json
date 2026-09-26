@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/dairyhands_top","variant":3,"earliestTime":1790413560,"latestTime":1790413560,"rows":[{"time":1790413560,"a":190000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/dairyhands_top","variant":3,"earliestTime":1790413560,"latestTime":1790431560,"rows":[{"time":1790413560,"a":190000000,"b":-1,"p":null,"v":null},{"time":1790431560,"a":-1,"b":-1,"p":190000000,"v":1}],"hourlyRetentionDays":60}
