@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_foraging_charm","variant":3,"earliestTime":1790935560,"latestTime":1790935560,"rows":[{"time":1790935560,"a":236000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_foraging_charm","variant":3,"earliestTime":1790935560,"latestTime":1790957160,"rows":[{"time":1790935560,"a":236000000,"b":-1,"p":null,"v":null},{"time":1790957160,"a":236000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
