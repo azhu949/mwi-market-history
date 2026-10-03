@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_plate_legs","variant":3,"earliestTime":1790622360,"latestTime":1790622360,"rows":[{"time":1790622360,"a":96000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_plate_legs","variant":3,"earliestTime":1790622360,"latestTime":1791036360,"rows":[{"time":1790622360,"a":96000,"b":-1,"p":null,"v":null},{"time":1791036360,"a":96000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
