@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/maelstrom_plate_body","variant":3,"earliestTime":1791165960,"latestTime":1791165960,"rows":[{"time":1791165960,"a":90000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/maelstrom_plate_body","variant":3,"earliestTime":1791165960,"latestTime":1791191160,"rows":[{"time":1791165960,"a":90000000,"b":-1,"p":null,"v":null},{"time":1791191160,"a":90000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
