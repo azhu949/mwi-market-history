@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_plate_body","variant":7,"earliestTime":1791533160,"latestTime":1791533160,"rows":[{"time":1791533160,"a":5500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crimson_plate_body","variant":7,"earliestTime":1791533160,"latestTime":1791558360,"rows":[{"time":1791533160,"a":5500000,"b":-1,"p":null,"v":null},{"time":1791558360,"a":5200000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
