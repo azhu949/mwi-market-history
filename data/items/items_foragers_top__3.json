@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/foragers_top","variant":3,"earliestTime":1791590760,"latestTime":1791590760,"rows":[{"time":1791590760,"a":188000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/foragers_top","variant":3,"earliestTime":1791590760,"latestTime":1791612360,"rows":[{"time":1791590760,"a":188000000,"b":-1,"p":null,"v":null},{"time":1791612360,"a":188000000,"b":159000000,"p":null,"v":null}],"hourlyRetentionDays":60}
