@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crafters_bottoms","variant":11,"earliestTime":1786795560,"latestTime":1786795560,"rows":[{"time":1786795560,"a":-1,"b":-1,"p":950000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crafters_bottoms","variant":11,"earliestTime":1786795560,"latestTime":1791932760,"rows":[{"time":1786795560,"a":-1,"b":-1,"p":950000000,"v":1},{"time":1791932760,"a":795000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
