@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crafters_top","variant":9,"earliestTime":1791788760,"latestTime":1791788760,"rows":[{"time":1791788760,"a":376000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/crafters_top","variant":9,"earliestTime":1791788760,"latestTime":1791997560,"rows":[{"time":1791788760,"a":376000000,"b":-1,"p":null,"v":null},{"time":1791997560,"a":376000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
