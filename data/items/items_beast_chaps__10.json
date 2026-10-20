@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_chaps","variant":10,"earliestTime":1792508760,"latestTime":1792508760,"rows":[{"time":1792508760,"a":28500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/beast_chaps","variant":10,"earliestTime":1792508760,"latestTime":1792523160,"rows":[{"time":1792508760,"a":28500000,"b":-1,"p":null,"v":null},{"time":1792523160,"a":-1,"b":-1,"p":28500000,"v":1}],"hourlyRetentionDays":60}
