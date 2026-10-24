@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/griffin_chaps","variant":11,"earliestTime":1792818360,"latestTime":1792818360,"rows":[{"time":1792818360,"a":184000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/griffin_chaps","variant":11,"earliestTime":1792818360,"latestTime":1792832760,"rows":[{"time":1792818360,"a":184000000,"b":-1,"p":null,"v":null},{"time":1792832760,"a":184000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
