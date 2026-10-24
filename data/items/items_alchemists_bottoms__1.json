@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/alchemists_bottoms","variant":1,"earliestTime":1792213560,"latestTime":1792213560,"rows":[{"time":1792213560,"a":-1,"b":-1,"p":260000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/alchemists_bottoms","variant":1,"earliestTime":1792213560,"latestTime":1792847160,"rows":[{"time":1792213560,"a":-1,"b":-1,"p":260000000,"v":1},{"time":1792847160,"a":-1,"b":-1,"p":265000000,"v":1}],"hourlyRetentionDays":60}
