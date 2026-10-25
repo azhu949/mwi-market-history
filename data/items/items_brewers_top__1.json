@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/brewers_top","variant":1,"earliestTime":1786631541,"latestTime":1786631541,"rows":[{"time":1786631541,"a":null,"b":null,"p":110000000,"v":2}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/brewers_top","variant":1,"earliestTime":1786631541,"latestTime":1792947960,"rows":[{"time":1786631541,"a":null,"b":null,"p":110000000,"v":2},{"time":1792947960,"a":-1,"b":-1,"p":159000000,"v":1}],"hourlyRetentionDays":60}
