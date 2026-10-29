@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_buckler","variant":5,"earliestTime":1786701960,"latestTime":1786701960,"rows":[{"time":1786701960,"a":1050000,"b":null,"p":null,"v":0}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_buckler","variant":5,"earliestTime":1786701960,"latestTime":1793293560,"rows":[{"time":1786701960,"a":1050000,"b":null,"p":null,"v":0},{"time":1793293560,"a":159000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
