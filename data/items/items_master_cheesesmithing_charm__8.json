@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_cheesesmithing_charm","variant":8,"earliestTime":1793948760,"latestTime":1793948760,"rows":[{"time":1793948760,"a":2750000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_cheesesmithing_charm","variant":8,"earliestTime":1793948760,"latestTime":1793977560,"rows":[{"time":1793948760,"a":2750000000,"b":-1,"p":null,"v":null},{"time":1793977560,"a":2750000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
