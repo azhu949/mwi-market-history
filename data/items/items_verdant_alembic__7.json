@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_alembic","variant":7,"earliestTime":1794600360,"latestTime":1794600360,"rows":[{"time":1794600360,"a":1040000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/verdant_alembic","variant":7,"earliestTime":1794600360,"latestTime":1794614760,"rows":[{"time":1794600360,"a":1040000,"b":-1,"p":null,"v":null},{"time":1794614760,"a":1040000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
