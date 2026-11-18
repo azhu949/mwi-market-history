@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/corsair_helmet","variant":14,"earliestTime":1786295601,"latestTime":1786295601,"rows":[{"time":1786295601,"a":null,"b":null,"p":3400000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/corsair_helmet","variant":14,"earliestTime":1786295601,"latestTime":1794996360,"rows":[{"time":1786295601,"a":null,"b":null,"p":3400000000,"v":1},{"time":1794996360,"a":4560000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
